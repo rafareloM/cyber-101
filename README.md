@@ -5,6 +5,11 @@ This README organizes cybersecurity learning resources by major careern and gene
 
 ## 0) General Cyber Content:
 
+**Careers and paths unraveled:**
+- Cyberseek pathways: https://www.cyberseek.org/pathway.html
+- Cybersecurity General knowledge roadmap: https://roadmap.sh/cyber-security
+- NICE Framework careers and skills: https://niccs.cisa.gov/tools/nice-framework
+
 **News and Political context in tech:**
 - https://www.youtube.com/@TecnologiaeClasse
 - https://www.youtube.com/@CodigoFonteTV
