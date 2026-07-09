@@ -14,6 +14,10 @@ This README organizes cybersecurity learning resources by major careern and gene
 - https://www.youtube.com/@TecnologiaeClasse
 - https://www.youtube.com/@CodigoFonteTV
 - https://www.youtube.com/@NetworkChuck
+- https://www.youtube.com/@Fireship
+- Edward Snowden Case: Citizenfour (2014, doc), Snowden (2016, Thriller movie)
+- Guacamaya Guerilla: https://www.tandfonline.com/doi/full/10.1080/23738871.2024.2419509#d1e378
+
 
 **General Knowledge:**
 - Linux Crash Course: https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
@@ -22,6 +26,7 @@ This README organizes cybersecurity learning resources by major careern and gene
 **Hacker Stories:**
 -  This Hacker Kept Embarrassing the FBI: https://www.youtube.com/watch?v=Yb2lKqakBQE
 -  The Biggest Hacking Mystery of Our Time: Shadow Brokers: https://www.youtube.com/watch?v=fxqcwK5OMag
+-  About wanna_cry: https://www.youtube.com/watch?v=_OmpRDWRT9U
 
 ## 1) Blue Team (Defensive Security)
 
