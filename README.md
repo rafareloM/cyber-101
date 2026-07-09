@@ -2,7 +2,7 @@
 
 This project's purporse is to organize cybersecurity learning resources by major careern and general kwnoledge content areas and gives a practical path to get started in each one.
 
-Also check (The Art of Hacking)[https://github.com/The-Art-of-Hacking/h4cker] for a more specialized and rich curation on cybersecurity contents and wiki.
+Also check [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) for a more specialized and rich curation on cybersecurity contents and wiki.
 
 ## 0) General Cyber Content:
 
