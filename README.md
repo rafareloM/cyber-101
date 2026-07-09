@@ -1,6 +1,22 @@
 # Cybersecurity Knowledge Map (Cyber 101)
 
-This README organizes cybersecurity learning resources by major career areas and gives a practical path to get started in each one.
+This README organizes cybersecurity learning resources by major careern and general kwnoledge content areas and gives a practical path to get started in each one.
+
+
+## 0) General Cyber Content:
+
+**News and Political context in tech:**
+- https://www.youtube.com/@TecnologiaeClasse
+- https://www.youtube.com/@CodigoFonteTV
+- https://www.youtube.com/@NetworkChuck
+
+**General Knowledge:**
+- Linux Crash Course: https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL
+- OSINT: https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_
+
+**Hacker Stories:**
+-  This Hacker Kept Embarrassing the FBI: https://www.youtube.com/watch?v=Yb2lKqakBQE
+-  The Biggest Hacking Mystery of Our Time: Shadow Brokers: https://www.youtube.com/watch?v=fxqcwK5OMag
 
 ## 1) Blue Team (Defensive Security)
 
@@ -19,10 +35,10 @@ This README organizes cybersecurity learning resources by major career areas and
 
 ### Useful links (Blue Team)
 - MITRE ATT&CK: https://attack.mitre.org/
+- LetsDefend: https://letsdefend.io/
 - CyberDefenders Labs: https://cyberdefenders.org/
 - Security Onion Docs: https://docs.securityonion.net/
 - SANS DFIR Resources: https://www.sans.org/white-papers/?focus-area=digital-forensics-incident-response
-
 ---
 
 ## 2) Red Team (Offensive Security)
@@ -45,7 +61,8 @@ This README organizes cybersecurity learning resources by major career areas and
 - Hack The Box: https://www.hackthebox.com/
 - TryHackMe: https://tryhackme.com/
 - OWASP Top 10: https://owasp.org/www-project-top-ten/
-
+- Natas: https://overthewire.org/wargames/natas/
+- Vulhub: https://www.vulnhub.com/
 ---
 
 ## 3) GRC (Governance, Risk, and Compliance)
